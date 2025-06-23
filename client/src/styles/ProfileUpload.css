@@ -1,0 +1,18 @@
+.profile-upload {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.profile-upload input[type="file"] {
+  margin-bottom: 0.5rem;
+}
+.profile-upload .preview img {
+  margin-top: 0.5rem;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.error {
+  color: #f44336;
+  margin-top: 0.5rem;
+}
